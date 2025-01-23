@@ -7,7 +7,7 @@ import time
 class MouseMoverApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Mouse Mover")
+        self.root.title("Mouse Tickler")
         self.root.geometry("300x250")
 
         # Default interval in seconds

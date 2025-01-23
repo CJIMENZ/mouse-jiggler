@@ -1,4 +1,4 @@
-# Mouse Mover Script
+# Mouse Tickler Script
 
 This Python script automatically moves the mouse pointer at a specified interval to prevent screensavers or idle states.
 
